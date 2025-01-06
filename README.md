@@ -1,6 +1,8 @@
+![KZAC Banner Logo](images/kzac-banner-logo.png)
+
 # KZAC (Key Zipping Asymmetrical Cryptography)
 
-KZAC (Key Zipping Asymmetrical Cryptography) is a super cool new encryption system that’s built to stand strong against quantum computers! Unlike the usual methods that depend on tricky math puzzles (like factoring or lattice-based stuff), KZAC uses some wild multidimensional noise and deterministic processes to keep your data locked down. Basically, it’s crazy secure and ready for the future.
+KZAC (Key Zipping Asymmetrical Cryptography) is a super cool new encryption system that’s built to stand strong against quantum computers! Unlike the usual methods that depend on tricky math puzzles (like factoring or solving hard lattice problems), KZAC uses some multidimensional noise and deterministic processes to keep your data locked down. Basically, it’s crazy secure and ready for the future.
 
 ## What Makes KZAC Awesome?
 - **Noise-Driven Security**: KZAC’s secret sauce is cryptographically secure noise. It’s what powers everything from key generation to encryption and decryption. No noise = no security. Simple as that.

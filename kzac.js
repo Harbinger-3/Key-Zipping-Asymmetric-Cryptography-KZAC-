@@ -20,6 +20,7 @@
 // These noises go into Alea and Mash PRNGs, which process them while keeping everything deterministic.
 // This design makes it really tough for quantum computers to break, since it requires that insane level of precision that 
 // quantum algorithms can’t easily brute-force even with it's quadratic speed up.
+// The best part is that the internal processes are also influenced by the noise, so there's no fixed easy to guess patterns here.
 
 // sha512
 var b;

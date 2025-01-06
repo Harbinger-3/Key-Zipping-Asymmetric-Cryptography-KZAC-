@@ -23,6 +23,7 @@
 // The best part is that the internal processes are also influenced by the noise, so there's no fixed easy to guess patterns here.
 
 // sha512
+// source: https://gist.github.com/19h/3811386
 var b;
 if (!(b = t)) {
         var w = Math,
